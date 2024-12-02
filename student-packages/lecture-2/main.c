@@ -14,7 +14,7 @@ int main()
 {
     // Initialize all standard I/O
     stdio_init_all();
-    sleep_ms(1000);
+    sleep_ms(2000);
     printf("Starting...\n");
 
     // Initialize GPIO pins
